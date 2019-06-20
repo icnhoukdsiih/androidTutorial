@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/e7d68f3bae2587bfec82b6f0e444273b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/d790e0cb3ec120528e48303ad77b7e47/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/41db84e93954d04261c29db712b6202e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/0dc9395db6015ae6596adad6fec91909/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/7aab7f637243240a84ca971b31d6568b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/df219efc152f055f54003ba333a33cdb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/513151776471aa85f20cd50929f957c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/b4f74c301d7c5d099e6b96606ab35e39/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/5f8979c06204aba6c8c81e726ffa3061/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/d485a18f7715a43cf72d75fe1c8a9d2d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/7bf12b486455c9e209e20ad90dcdbb0d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/669ad5625ef8a0b30a67478ef6906bf4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/db239a07a44b06f6931d43d4876fe1d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/6fe52c973ec22b31f5922e8ce084bf8f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/455ff9485c5062bdd56ca21d76ec64a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/14494ad9ea3865c66fff4c85e5b4a894/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/82233a5a313036a1341509fcef37c846/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/918722240ec04081f687ef46b4e7a753/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/316496cb7531824dfc72b4d297d1434e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/f213f600663e1c8dfdbfb69dee23880c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/a0c503c06fa25d1b52a9f2a698965f5f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/d6eceb1124cc1c57e90b6bb85ac34c5b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/f10ee9f50b9269835915855a8c710ca6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/6149826d764fd4344c7b684fcc89b298/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/781db0ab8bf54150c8f6313efd68b234/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/c6f5501ce1c3bf275d9c3c65c57fb6ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/334bd4666e0ece247fb4f4a7ac292c47/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml
+		INJECTED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml
+		ADDED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml
+		ADDED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/d790e0cb3ec120528e48303ad77b7e47/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/d790e0cb3ec120528e48303ad77b7e47/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/14494ad9ea3865c66fff4c85e5b4a894/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/14494ad9ea3865c66fff4c85e5b4a894/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/82233a5a313036a1341509fcef37c846/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/82233a5a313036a1341509fcef37c846/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/14494ad9ea3865c66fff4c85e5b4a894/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.androidtutorial.MainActivity
+ADDED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml
+INJECTED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/e7d68f3bae2587bfec82b6f0e444273b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/e7d68f3bae2587bfec82b6f0e444273b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/d790e0cb3ec120528e48303ad77b7e47/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/d790e0cb3ec120528e48303ad77b7e47/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/41db84e93954d04261c29db712b6202e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/41db84e93954d04261c29db712b6202e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/0dc9395db6015ae6596adad6fec91909/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/0dc9395db6015ae6596adad6fec91909/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/7aab7f637243240a84ca971b31d6568b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/7aab7f637243240a84ca971b31d6568b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/df219efc152f055f54003ba333a33cdb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/df219efc152f055f54003ba333a33cdb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/513151776471aa85f20cd50929f957c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/513151776471aa85f20cd50929f957c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/b4f74c301d7c5d099e6b96606ab35e39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/b4f74c301d7c5d099e6b96606ab35e39/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/5f8979c06204aba6c8c81e726ffa3061/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/5f8979c06204aba6c8c81e726ffa3061/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/d485a18f7715a43cf72d75fe1c8a9d2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/d485a18f7715a43cf72d75fe1c8a9d2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/7bf12b486455c9e209e20ad90dcdbb0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/7bf12b486455c9e209e20ad90dcdbb0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/669ad5625ef8a0b30a67478ef6906bf4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/669ad5625ef8a0b30a67478ef6906bf4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/db239a07a44b06f6931d43d4876fe1d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/db239a07a44b06f6931d43d4876fe1d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/6fe52c973ec22b31f5922e8ce084bf8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/6fe52c973ec22b31f5922e8ce084bf8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/455ff9485c5062bdd56ca21d76ec64a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/455ff9485c5062bdd56ca21d76ec64a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/14494ad9ea3865c66fff4c85e5b4a894/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/14494ad9ea3865c66fff4c85e5b4a894/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/82233a5a313036a1341509fcef37c846/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/82233a5a313036a1341509fcef37c846/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/918722240ec04081f687ef46b4e7a753/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/918722240ec04081f687ef46b4e7a753/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/316496cb7531824dfc72b4d297d1434e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/316496cb7531824dfc72b4d297d1434e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/f213f600663e1c8dfdbfb69dee23880c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/f213f600663e1c8dfdbfb69dee23880c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/a0c503c06fa25d1b52a9f2a698965f5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/a0c503c06fa25d1b52a9f2a698965f5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/d6eceb1124cc1c57e90b6bb85ac34c5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/d6eceb1124cc1c57e90b6bb85ac34c5b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/f10ee9f50b9269835915855a8c710ca6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/f10ee9f50b9269835915855a8c710ca6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/6149826d764fd4344c7b684fcc89b298/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/6149826d764fd4344c7b684fcc89b298/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/781db0ab8bf54150c8f6313efd68b234/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/781db0ab8bf54150c8f6313efd68b234/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/c6f5501ce1c3bf275d9c3c65c57fb6ba/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/c6f5501ce1c3bf275d9c3c65c57fb6ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/334bd4666e0ece247fb4f4a7ac292c47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/icnhoukdsiih/.gradle/caches/transforms-2/files-2.1/334bd4666e0ece247fb4f4a7ac292c47/AndroidManifest.xml:20:5-44
+INJECTED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml
+INJECTED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml
+		ADDED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml
+		INJECTED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml
+		ADDED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml
+		INJECTED from /home/icnhoukdsiih/AndroidStudioProjects/androidTutorial/app/src/main/AndroidManifest.xml
